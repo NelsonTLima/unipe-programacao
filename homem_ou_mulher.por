@@ -1,4 +1,4 @@
-prograna{
+programa{
     funcao inicio(){
         caracter sexo
 

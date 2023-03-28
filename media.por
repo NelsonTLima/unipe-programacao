@@ -21,7 +21,7 @@ programa {
     retorne vetor
   }
 
-  funcao real calcular_media (real a, real b, real c){
+  funcao real calcular_media(real a, real b, real c){
     real resultado
     resultado = (a + b + c)/3
     retorne resultado
